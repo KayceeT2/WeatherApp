@@ -10,3 +10,9 @@ class WeatherViewController: UIViewController {
         super.viewDidLoad()
     }
 }
+
+//MARK: - UITextFieldDelegate
+
+//MARK: - WeatherManagerDelegate
+
+//MARK: - CLLocationManagerDelegate
