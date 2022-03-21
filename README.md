@@ -12,7 +12,7 @@ You will learn about Dark Mode and Vector Assets, Protocols & The Delegate Desig
 
 ### Condition Codes
 ```
-switch conditionID {
+switch conditionId {
         case 200...232:
             return "cloud.bolt"
         case 300...321:
